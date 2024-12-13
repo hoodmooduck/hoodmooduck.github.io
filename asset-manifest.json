@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4460e67b.css",
+    "main.css": "/static/css/main.a43f7673.css",
     "main.js": "/static/js/main.b0fd7286.js",
     "static/media/DelaGothicOne-Regular.ttf": "/static/media/DelaGothicOne-Regular.49d69206ea0feeabb0d4.ttf",
     "static/media/boomMatiz.mp4": "/static/media/boomMatiz.7fb3f92adc6b1dea293a.mp4",
@@ -41,10 +41,10 @@
     "static/media/alr.svg": "/static/media/alr.d3a6eada623e8adfe36b.svg",
     "static/media/tg.svg": "/static/media/tg.426d9eea410c2b6d05b3.svg",
     "static/media/iconTg.svg": "/static/media/iconTg.436b8b1958018265ef56fdff41ea8d31.svg",
+    "index.html": "/index.html",
     "static/media/iconYt.svg": "/static/media/iconYt.fe197c396fb708634460dfb40326a014.svg",
     "static/media/IconYT_.svg": "/static/media/IconYT_.6c328a568a10435ba3d4.svg",
     "static/media/Icon_YT_White.svg": "/static/media/Icon_YT_White.10bba42d595f432c8dc6.svg",
-    "index.html": "/index.html",
     "static/media/iconPlay.svg": "/static/media/iconPlay.62d2bcf572630d8843bf.svg",
     "static/media/iconOnline.svg": "/static/media/iconOnline.46589c475ff0f09ed2b8.svg",
     "static/media/upComp.svg": "/static/media/upComp.a444bf5f86386f143c3a2f5efb457878.svg",
@@ -54,11 +54,11 @@
     "static/media/whoishaz_eye.svg": "/static/media/whoishaz_eye.bf302748b3bce1765d34.svg",
     "static/media/whoishaz_eyeSubstrate.svg": "/static/media/whoishaz_eyeSubstrate.18cdb80c5ea05471fa73.svg",
     "static/media/cursor_48x48.svg": "/static/media/cursor_48x48.2e99846ea6b5b169488ea8186322b152.svg",
-    "main.4460e67b.css.map": "/static/css/main.4460e67b.css.map",
+    "main.a43f7673.css.map": "/static/css/main.a43f7673.css.map",
     "main.b0fd7286.js.map": "/static/js/main.b0fd7286.js.map"
   },
   "entrypoints": [
-    "static/css/main.4460e67b.css",
+    "static/css/main.a43f7673.css",
     "static/js/main.b0fd7286.js"
   ]
 }
